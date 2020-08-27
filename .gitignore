@@ -95,7 +95,8 @@ env.bak/
 venv.bak/
 cp/
 results/
-get_mask/
+__pycache__
+*.pyc
 
 # Spyder project settings
 .spyderproject
